@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3264275623
+CRC: 2178398285
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 69b6b7d50f9c401d0955035177ae2fdc
+    Hash: 22543dcd74a574976e137d54440a32ca
   TypeTreeHash:
     serializedVersion: 2
     Hash: 565f54c634bcff8b7d12673a51dba509
@@ -23,8 +23,6 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
   ClassName: SubCategory
 Assets:
-- Assets/PictureQuizPlus/Resources/details/localizations/russian.asset
-- Assets/PictureQuizPlus/Resources/details/localizations/rus.asset
 - Assets/PictureQuizPlus/Resources/details/localizations/english.asset
 - Assets/PictureQuizPlus/Resources/details/localizations/deutsch.asset
 - Assets/PictureQuizPlus/Resources/details/localizations/french.asset
